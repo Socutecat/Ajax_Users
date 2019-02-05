@@ -1,1 +1,1 @@
-# Ajax_Users
+# Simple Example using AJAX in jsonplaceholder.com
